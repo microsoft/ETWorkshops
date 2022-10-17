@@ -1,5 +1,7 @@
 # Project
 
+[Go To Challenge1](https://github.com/microsoft/ETWorkshops/blob/main/Challenge1.md)
+
 > This repo has been populated by an initial template to help get you started. Please
 > make sure to update the content to build a great experience for community-building.
 
