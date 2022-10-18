@@ -18,3 +18,5 @@ He will use this information to present a case back to senior management, while 
 4.	Explain the top 3 finding categories and present split between human and non-human identities
 
 ## References:
+
+[Next Challenge](/ETWorkshops/Challenge2.html)
