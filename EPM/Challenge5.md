@@ -19,3 +19,14 @@ Success Criteria
 1. Determine high-level deployment/onboarding plan for EPM (Subscription coverage, R&R, and etc)
 1. Determine the owner and user teams of EPM (post-deployment)
 1. Each team identifies at least 1 use case for EPM’s operationalization
+
+
+<!-- Common Footer -->
+___
+
+## Navigation
+  
+Introduction | Background | Challenge 1 | Challenge 2 | Challenge 3 | Challenge 4 | Challenge 5 | Summmary
+------------ | ---------- | ----------- | ----------- | ----------- | ----------- | ----------- | ---------- 
+[link](Intro.html) | [link](Background.html) |  [link](Challenge1.html) | [link](Challenge2.html) | [link](Challenge3.html) | [link](Challenge4.html) | [link](Challenge5.html) | [link](Summary.html)
+  
