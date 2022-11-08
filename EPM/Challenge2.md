@@ -12,10 +12,10 @@ Once you have identified the information to focus on, put it in the attached sum
 
 ## Success Criteria
 * As a representation of the case to be presented back to your CISO, identify the following:
-  *	Identify the permissions of ____X____ user and explain how they are assigned these permissions
-  *	Which IAM related activities did ___Y___ perform recently?
-  *	How many people have access to ___Z___ resource, but aren’t using it?
-*	Find the top 3 security groups with over-provisioned access and list them down for remediation
+  *	Identify the permissions of EPM Test1 user and explain how they are assigned these permissions
+  *	Which IAM related activities did Michael perform recently?
+  *	How many people have access to 'cmaap1' resource, but aren’t using it?
+*	Find the top security group with over-provisioned access and list it down for remediation
 *	Find the number and percentage of identities that are inactive, and find top candidates for remediation
 *	As a policy, all admin access is always provisioned via group membership. However, one of the admins was provisioned with direct access. Identify the admin and tag the permission for remediation.
 *	Update the template attached in the appendix to be presented to the CISO with the findings
