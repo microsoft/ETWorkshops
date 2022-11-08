@@ -20,6 +20,9 @@ Once you have identified the information to focus on, put it in the attached sum
 *	As a policy, all admin access is always provisioned via group membership. However, one of the admins was provisioned with direct access. Identify the admin and tag the permission for remediation.
 *	Update the template attached in the appendix to be presented to the CISO with the findings
 
+## Templates
+[Exec Report Template](https://github.com/microsoft/ETWorkshops/raw/main/EPM/EPM%20Executive%20Summary%20Template.pptx) 
+
 <!-- Common Footer -->
 
 ___
