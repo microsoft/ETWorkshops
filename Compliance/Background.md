@@ -6,7 +6,7 @@ The company is interested in protecting its customer privacy and sensitive data 
 This exercise will take us through the experience of defining the problem statement, identifying, and evaluating Microsoft Information Protection and Privacy Management capability, and presenting the solution to the Chief Data Protection Officer and senior leadership team.
 
 <!-- Common Footer -->
-___
+___ 
 
 ## Navigation
   
