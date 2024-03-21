@@ -48,7 +48,7 @@ By the end of the workshop, participants will gain knowledge on how to rapidly d
 
 [Let's Get Started](/ETWorkshops/IoT/Intro.html)
 
-
+ 
 ## Threat Intelligence (TI) and External Attack Surface Management (EASM)
 
 Many businesses have internet-facing assets they may not be aware of or have simply forgotten about. These are often created by shadow IT, mergers, and acquisitions, incomplete cataloguing, business partners’ exposure, or simply rapid business growth. 
